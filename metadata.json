@@ -1,0 +1,6 @@
+{
+  "name": "Offline Notes",
+  "description": "A polished, offline-first personal notes and task manager with checklists, folders, tags, pinning, and trash recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
